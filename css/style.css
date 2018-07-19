@@ -127,9 +127,11 @@ body {
     height: 2px;
     margin: 5px;
     background: #cbcbcb;
+    position: relative;
 }
 
 .volume-progress-range .volume-progress-bar {
+    position: absolute;
     height: 2px;
     width: 100%;
     background-color: #646464;
