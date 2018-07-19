@@ -51,14 +51,17 @@ body {
     font-size: 1.5em;
     margin: 20px;
     width: 410px;
+    height: 170px;
 }
 
 .music-info .song-name {
+    height: 30px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .music-info .singer {
+    height: 15px;
     padding-top: 10px;
     font-size: 0.6em;
     margin-bottom: 50px;
